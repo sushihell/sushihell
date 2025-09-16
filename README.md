@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sushihell</h1>
+<h1 align="center">👋 Sushihell Here</h1>
 <h3 align="center">Game & App Developer | Bangladesh</h3>
 
 ---
