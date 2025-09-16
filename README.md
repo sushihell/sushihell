@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushihell&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushihell&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushihell&layout=donut&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ## 📫 Somewhere Not Here
