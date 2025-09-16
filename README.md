@@ -47,5 +47,6 @@
 ---
 
 <div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=sushihell&color=blueviolet)
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-0000FF?style=for-the-badge&logo=github&logoColor=white)
 </div>
+
