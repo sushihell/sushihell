@@ -27,8 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushihell&layout=donut&theme=default&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-
-## Somewhere Not Here
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
@@ -42,7 +41,6 @@
   </a>
 </p>
 
----
 
 <div align="center">
   
