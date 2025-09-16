@@ -1,4 +1,4 @@
-<h1 align="center">👋 Sushihell Here</h1>
+<h1 align="left">👋Sushihell Here</h1>
 
 ## Languages
 ![C#](https://img.shields.io/badge/-C%23-FFFFFF?style=flat-square&logo=c-sharp&logoColor=239120)
