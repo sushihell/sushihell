@@ -2,19 +2,19 @@
 
 ## Languages
 ![C#](https://img.shields.io/badge/-C%23-FFFFFF?style=flat-square&logo=c-sharp&logoColor=239120)
-![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=java&logoColor=ED8B00)
 ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat-square&logo=c%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-FFFFFF?style=flat-square&logo=C&logoColor=000000)
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat-square&logo=java&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1)
 
 ## Tools & Technologies
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-FFFFFF?style=flat-square&logo=android-studio&logoColor=3DDC84)
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED)
-![Arduino](https://img.shields.io/badge/-Arduino-FFFFFF?style=flat-square&logo=arduino&logoColor=00979D)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-FFFFFF?style=flat-square&logo=intellij-idea&logoColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat-square&logo=github&logoColor=181717)
+![Arduino](https://img.shields.io/badge/-Arduino-FFFFFF?style=flat-square&logo=arduino&logoColor=00979D)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-FFFFFF?style=flat-square&logo=visual-studio&logoColor=5C2D91)
 
 
