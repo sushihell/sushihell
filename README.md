@@ -3,7 +3,6 @@
 
 ---
 
-## 🛠️ Tech Stack
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-1E1E1E?style=flat-square&logo=c%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-1E1E1E?style=flat-square&logo=c-sharp&logoColor=239120)
