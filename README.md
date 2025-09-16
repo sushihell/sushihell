@@ -3,7 +3,7 @@
 
 ---
 
-### Languages
+## Languages
 ![C++](https://img.shields.io/badge/-C++-1E1E1E?style=flat-square&logo=c%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-1E1E1E?style=flat-square&logo=c-sharp&logoColor=239120)
 ![C](https://img.shields.io/badge/-C-1E1E1E?style=flat-square&logo=C&logoColor=000000)
@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/-MySQL-1E1E1E?style=flat-square&logo=mysql&logoColor=4479A1)
 
-### Tools & Technologies
+## Tools & Technologies
 ![Unity](https://img.shields.io/badge/-Unity-1E1E1E?style=flat-square&logo=unity&logoColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-1E1E1E?style=flat-square&logo=android&logoColor=3DDC84)
 ![Docker](https://img.shields.io/badge/-Docker-1E1E1E?style=flat-square&logo=docker&logoColor=2496ED)
@@ -22,14 +22,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushihell&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushihell&layout=donut&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-## 📫 Somewhere Not Here
+## Somewhere Not Here
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
