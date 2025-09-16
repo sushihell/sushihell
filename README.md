@@ -1,5 +1,5 @@
 <h1 align="center">👋 Sushihell Here</h1>
-<h3 align="center">Computer Science | Game Developer </h3>
+<h3 align="center"> Game Developer </h3>
 
 ---
 
