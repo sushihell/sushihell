@@ -20,6 +20,7 @@
 ![Multiplayer](https://img.shields.io/badge/-Multiplayer-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
 ![Entities](https://img.shields.io/badge/-Entities-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
 ![AR](https://img.shields.io/badge/-AR-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
+![VR](https://img.shields.io/badge/-VR-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
 
 ---
 
