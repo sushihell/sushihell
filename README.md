@@ -17,17 +17,6 @@
 ![Multiplayer](https://img.shields.io/badge/-Multiplayer-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
 ![VR](https://img.shields.io/badge/-VR-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushihell&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushihell&layout=donut&theme=default&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 <div align="center">
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=sushihell&color=blueviolet)
