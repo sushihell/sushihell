@@ -16,7 +16,7 @@
 ## Unity
 ![Multiplayer](https://img.shields.io/badge/-Multiplayer-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
 ![VR](https://img.shields.io/badge/-VR-FFFFFF?style=flat-square&logo=unity&logoColor=000000)
-## Other
+## WEB
 ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat-square&logo=c%2B%2B&logoColor=00599C)
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat-square&logo=C&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-square&logo=java&logoColor=ED8B00)
